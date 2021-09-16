@@ -1,0 +1,9 @@
+git push
+git pull
+git checkout
+git checkout -b 
+git commit
+git commit --amend
+docker-compose up 
+docker-compose down 
+
