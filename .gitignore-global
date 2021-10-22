@@ -1,2 +1,5 @@
 .venv
 /.vlad
+/.idea
+**/__pycache__/
+
